@@ -6,6 +6,8 @@ In this repo nodejs and react work together! Express and cors are used in this r
 
 ![Image of nodejs-react working](https://github.com/mmtmn/nodejs-react/blob/master/images/preview.png)
 
+![Image of nodejs-react working](https://github.com/mmtmn/nodejs-react/blob/master/images/nodepreview.png)
+
 
 
 </div>
